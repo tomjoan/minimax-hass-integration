@@ -16,9 +16,9 @@ PLATFORMS = (
     Platform.TTS,
 )
 
-MINIMAX_ANTHROPIC_API_URL = "https://api.minimax.io/anthropic/v1/messages"
-MINIMAX_TTS_API = "https://api.minimax.io/v1/t2a_v2"
-MINIMAX_STT_API = "https://api.minimax.io/v1/audio/transcription"
+MINIMAX_ANTHROPIC_API_URL = "https://api.minimaxi.com/anthropic/v1/messages"
+MINIMAX_TTS_API = "https://api.minimaxi.com/v1/t2a_v2"
+MINIMAX_STT_API = "https://api.minimaxi.com/v1/audio/transcription"
 DEFAULT_STT_NAME = "MiniMax STT"
 DEFAULT_TTS_NAME = "MiniMax TTS"
 
