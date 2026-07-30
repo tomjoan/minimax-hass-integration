@@ -20,7 +20,7 @@ class MiniMaxWebSocketClient:
         self._speed = speed
         self._vol = vol
         self._pitch = pitch
-        self._url = "wss://api.minimax.io/ws/v1/t2a_v2"
+        self._url = "wss://api.minimaxi.com/ws/v1/t2a_v2"
 
     async def synthesize(self, text: str) -> bytes:
         session = async_get_clientsession(self._hass)
