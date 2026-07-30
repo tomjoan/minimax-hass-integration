@@ -50,7 +50,7 @@ class TestAsyncChat:
             "stop_reason": "end_turn",
         }
 
-        with respx.mock(base_url="https://api.minimax.io") as respx_mock:
+        with respx.mock(base_url="https://api.minimaxi.com") as respx_mock:
             respx_mock.post("/anthropic/v1/messages").mock(
                 return_value=Response(200, json=mock_response)
             )
