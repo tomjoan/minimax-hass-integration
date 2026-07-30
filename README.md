@@ -7,11 +7,6 @@
      align="right"
      style="float: right; margin: 10px 0px 20px 20px;" />
 
-[![GitHub Release](https://img.shields.io/github/release/double-em/minimax-hass-integration.svg?style=flat-square)](https://github.com/double-em/minimax-hass-integration/releases)
-[![Build Status](https://img.shields.io/github/actions/workflow/status/double-em/minimax-hass-integration/tests.yaml?branch=master&style=flat-square)](https://github.com/double-em/minimax-hass-integration/actions/workflows/tests.yaml)
-[![Test Coverage](https://img.shields.io/codecov/c/gh/double-em/minimax-hass-integration?style=flat-square)](https://app.codecov.io/gh/double-em/minimax-hass-integration/)
-[![License](https://img.shields.io/github/license/double-em/minimax-hass-integration.svg?style=flat-square)](LICENSE)
-[![hacs](https://img.shields.io/badge/HACS-default-orange.svg?style=flat-square)](https://hacs.xyz)
 
 # MiniMax Home Assistant Integration
 
