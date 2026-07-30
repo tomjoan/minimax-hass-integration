@@ -89,7 +89,7 @@ MEMORY_CATEGORIES = [
     "other",
 ]
 
-SUPPORTED_LANGUAGES = ["en-US", "zh-CN"]
+SUPPORTED_LANGUAGES = ["zh-CN", "en-US"]
 
 VOICE_IDS = {
     "en-US": [
