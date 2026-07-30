@@ -27,7 +27,7 @@ Provides conversation, text-to-speech (TTS), and speech-to-text (STT) capabiliti
 
 Easiest install is via [HACS](https://hacs.xyz/):
 
-[![Open your Home Assistant instance and open a repository inside the Home Assistant Community Store.](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=double-em&repository=minimax-hass-integration&category=integration)
+[![Open your Home Assistant instance and open a repository inside the Home Assistant Community Store.](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=tomjoan&repository=minimax-hass-integration&category=integration)
 
 `HACS -> Integrations -> Explore & Add Repositories -> MiniMax`
 
@@ -54,7 +54,7 @@ The integration creates three subentries for independent configuration:
 ## Requirements
 
 - Home Assistant 2025.4.1 or later
-- MiniMax API key from [MiniMax Platform](https://platform.minimax.io)
+- MiniMax API key from [MiniMax Platform](https://platform.minimaxi.com)
 
 ## License
 
